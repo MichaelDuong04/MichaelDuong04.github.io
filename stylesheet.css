@@ -1,0 +1,40 @@
+
+body {
+  background-color: #BF5700; 
+  color: #DAA520;           
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 10px;
+}
+
+
+#main-header {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #DAA520; 
+}
+
+
+.highlight {
+  font-weight: bold;
+  color: #DAA520;
+}
+
+
+a {
+  color: #DAA520;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: #F5DEB3; 
+
+
+.section {
+  background-color: #FFEBCD; 
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #DAA520; 
+}
