@@ -1,7 +1,7 @@
 
 body {
   background-color: #BF5700; 
-  color: #DAA520;           
+  color: #DAA520;          
   font-family: Arial, sans-serif;
   margin: 20px;
   padding: 10px;
@@ -24,13 +24,13 @@ body {
 
 a {
   color: #DAA520;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 
 a:hover {
   color: #F5DEB3; 
-
+}
 
 .section {
   background-color: #FFEBCD; 
